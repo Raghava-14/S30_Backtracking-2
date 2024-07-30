@@ -1,5 +1,5 @@
-//Time = 
-//Space = 
+//Time = O(2^N)
+//Space = O(2^N)
 
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
